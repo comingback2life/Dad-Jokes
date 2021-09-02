@@ -1,2 +1,4 @@
 # Dad-Jokes
-Vanilla JS code that fetches jokes using icanhazdadjoke API. 
+A simple application written in Vanilla JS that fetches jokes using axios from an API. 
+
+Jokes fetched from : https://icanhazdadjoke.com/api
